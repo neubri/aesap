@@ -1,4 +1,4 @@
-# AESAP - E-Commerce Website Clone
+# AESAP - Branded Website Clone
 
 ## Overview
 
