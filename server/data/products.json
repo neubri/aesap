@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Parsley Seed Facial Cleanser",
+    "description": "A gentle gel cleanser enhanced with lactic acid for daily use.",
+    "price": 480000,
+    "stock": 50,
+    "imgUrl": "https://cdn.aesop.com/parsley-cleanser.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Classic Shampoo",
+    "description": "A mild, frequent-use shampoo for all hair types.",
+    "price": 390000,
+    "stock": 70,
+    "imgUrl": "https://cdn.aesop.com/classic-shampoo.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Geranium Leaf Body Cleanser",
+    "description": "An aromatic body wash that invigorates and cleanses.",
+    "price": 420000,
+    "stock": 60,
+    "imgUrl": "https://cdn.aesop.com/geranium-body.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Hwyl Eau de Parfum",
+    "description": "A smoky, woody fragrance with cypress, frankincense, and vetiver.",
+    "price": 980000,
+    "stock": 20,
+    "imgUrl": "https://cdn.aesop.com/hwyl-perfume.jpg",
+    "categoryId": 4,
+    "authorId": 2
+  },
+  {
+    "name": "Aganice Aromatique Candle",
+    "description": "A rich blend of cardamom, mimosa, and tobacco for the home.",
+    "price": 760000,
+    "stock": 15,
+    "imgUrl": "https://cdn.aesop.com/aganice-candle.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "name": "B Triple C Facial Balancing Gel",
+    "description": "A high-potency gel rich in Vitamins B and C for hydration.",
+    "price": 1050000,
+    "stock": 30,
+    "imgUrl": "https://cdn.aesop.com/btriplec-gel.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Nurturing Shampoo",
+    "description": "A creamy formulation to cleanse and hydrate dry scalps.",
+    "price": 420000,
+    "stock": 50,
+    "imgUrl": "https://cdn.aesop.com/nurturing-shampoo.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Rejuvenate Intensive Body Balm",
+    "description": "A nourishing balm with tangerine and vanilla for dry skin.",
+    "price": 510000,
+    "stock": 40,
+    "imgUrl": "https://cdn.aesop.com/rejuvenate-balm.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Rozu Eau de Parfum",
+    "description": "A floral fragrance with notes of rose, shiso, and guaiacwood.",
+    "price": 1020000,
+    "stock": 25,
+    "imgUrl": "https://cdn.aesop.com/rozu-perfume.jpg",
+    "categoryId": 4,
+    "authorId": 2
+  },
+  {
+    "name": "Ptolemy Aromatique Candle",
+    "description": "Woody, resinous, and smoky with notes of cedar and vetiver.",
+    "price": 760000,
+    "stock": 18,
+    "imgUrl": "https://cdn.aesop.com/ptolemy-candle.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "name": "Tea Tree Leaf Facial Exfoliant",
+    "description": "A dry blend of botanicals to gently exfoliate skin.",
+    "price": 510000,
+    "stock": 35,
+    "imgUrl": "https://cdn.aesop.com/tea-tree-exfoliant.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Volumising Shampoo",
+    "description": "Adds lift and body to fine, flat hair.",
+    "price": 410000,
+    "stock": 45,
+    "imgUrl": "https://cdn.aesop.com/volumising-shampoo.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Coriander Seed Body Cleanser",
+    "description": "A richly aromatic cleanser with crushed spice notes.",
+    "price": 430000,
+    "stock": 55,
+    "imgUrl": "https://cdn.aesop.com/coriander-body.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Tacit Eau de Parfum",
+    "description": "A crisp citrus fragrance with basil and vetiver.",
+    "price": 950000,
+    "stock": 22,
+    "imgUrl": "https://cdn.aesop.com/tacit-perfume.jpg",
+    "categoryId": 4,
+    "authorId": 2
+  },
+  {
+    "name": "Callippus Aromatique Candle",
+    "description": "Fresh and herbaceous, ideal for calm indoor environments.",
+    "price": 760000,
+    "stock": 16,
+    "imgUrl": "https://cdn.aesop.com/callippus-candle.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "name": "Primrose Facial Cleansing Masque",
+    "description": "A clay-based masque to cleanse and refresh tired skin.",
+    "price": 650000,
+    "stock": 28,
+    "imgUrl": "https://cdn.aesop.com/primrose-masque.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Equalising Shampoo",
+    "description": "Balances oily scalps without stripping the hair.",
+    "price": 400000,
+    "stock": 42,
+    "imgUrl": "https://cdn.aesop.com/equalising-shampoo.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Rind Concentrate Body Balm",
+    "description": "A citrus-based body moisturizer for summer months.",
+    "price": 490000,
+    "stock": 38,
+    "imgUrl": "https://cdn.aesop.com/rind-balm.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Miraceti Eau de Parfum",
+    "description": "Warm and resinous, reminiscent of sea-faring journeys.",
+    "price": 980000,
+    "stock": 20,
+    "imgUrl": "https://cdn.aesop.com/miraceti-perfume.jpg",
+    "categoryId": 4,
+    "authorId": 2
+  },
+  {
+    "name": "Aromatique Room Spray: Istros",
+    "description": "A vibrant blend of pink pepper, lavender, and tobacco.",
+    "price": 750000,
+    "stock": 20,
+    "imgUrl": "https://cdn.aesop.com/istros-spray.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  }
+]
